@@ -1,2 +1,2 @@
-# Stedent-Management-System
+# Student-Management-System
 Laboratory Activity (Information Assurance and Security)
